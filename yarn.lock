@@ -1294,6 +1294,11 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
+macro-css@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/macro-css/-/macro-css-1.0.5.tgz#0e310daf7da1b485e6077ebb445cb005f0ccf776"
+  integrity sha512-2DctzCqUhoKRDwLxPYHHak6KHIB7pWgeWbtsPF+TJUYlrWtE1+/J1//Jrrim3UL5aeaZpOQ0V57THmIwHrtbkg==
+
 merge2@^1.3.0:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/merge2/-/merge2-1.4.1.tgz#4368892f885e907455a6fd7dc55c0c9d404990ae"
